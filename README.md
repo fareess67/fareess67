@@ -1,20 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Faris Iqbal
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  I'm Muhammad Faris Iqbal
 =============================================================================================================================================
 
-Student at University Teknologi Malaysia
+ I'm a 1st year student at University Teknologi Malaysia
 -------------------------------
 
-Im curently a student at Universiti Teknologi Malaysia majoring in Computer Science (Graphics and Multimedia)
+Im curently a student at Universiti Teknologi Malaysia majoring in Computer Science (Graphics and Multimedia Software)
 
 * 🌍  I'm based in Malaysia
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/fareess67)
 * ✉️  You can contact me at [muhammadfarisiqbal@graduate.utm.my](mailto:muhammadfarisiqbal@graduate.utm.my)
-* 🧠  I'm currently learning a programming language
-* 💬  I secretly make songs 
+* 🧠  I'm currently learning C++
+* 👾  Intermediate in weB development
 
+### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a>
 </p>
+
+### Current Courses
+* SECI1013 DISCRETE STRUCTURE
+* SECJ1013 PROGRAMMING TECHNIQUE I
+* SECR1013 DIGITAL LOGIC
+* SECP1513 TECHNOLOGY AND INFORMATION SYSTEM
+* ULRS1032 INTEGRITY AND ANTI-CORRUPTION COURSE
+
 
 ### Socials
 
